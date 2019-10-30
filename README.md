@@ -1,2 +1,0 @@
-# scmpImg
-scmp图片
